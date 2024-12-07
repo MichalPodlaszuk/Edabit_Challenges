@@ -9,3 +9,7 @@ Considering this turned out to be a one-liner let's move on to a higher difficul
 # Hard
 ## Imaginary Coding Interview
 link: https://edabit.com/challenge/3A3mHS5B3NNZddQL2  <br>
+There were 2 ways to complete it, one was to obviously use 3 if statement to check pairs of list elements, the other approach was to define a sequence and use a for loop to check the whole list with a single if statement.
+## Encode Morse
+link: https://edabit.com/challenge/5bYXQfpyoithnQisa <br>
+A simple for loop and dictionary accessing by key, a slightly trickier part with inverting the dictionary and replacing list elements, slightly more enjoyable than previous but I'll consider to increase the difficulty after 3 or so more challenges.
