@@ -23,4 +23,6 @@ Just checking if the snake still fits in the map.
 ## Atbash Cipher
 link: https://edabit.com/challenge/MGALfBAXhXqqdFyqo <br>
 Because it was requested that the capitalisation was to be retained the set of alphabet in lowercase and uppercase was created, from then a certain shifting did all the work.
-## 
+## Concert Seats
+link: https://edabit.com/challenge/xbjDMxzpFcsAWKp97 <br>
+List comprehension was used here, checking 2 rows at the same time function returns False if the conditions are not fulfilled anymore, thus reducing the time complexity of the algorithm.
