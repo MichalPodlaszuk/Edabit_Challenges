@@ -13,3 +13,14 @@ There were 2 ways to complete it, one was to obviously use 3 if statement to che
 ## Encode Morse
 link: https://edabit.com/challenge/5bYXQfpyoithnQisa <br>
 A simple for loop and dictionary accessing by key, a slightly trickier part with inverting the dictionary and replacing list elements, slightly more enjoyable than previous but I'll consider to increase the difficulty after 3 or so more challenges.
+## Find Domain Name From DNS Pointer (PTR) Records Using IP Address
+link: https://edabit.com/challenge/MtktG9Dz7z9vBCFYM <br>
+By using gethostbyaddr() function of the socket module this was pretty straight forward.
+## The Snake — Area Filling
+link: https://edabit.com/challenge/Y5Ji2HDnQTX7MxeHt <br>
+Just checking if the snake still fits in the map.
+# Very Hard
+## Atbash Cipher
+link: https://edabit.com/challenge/MGALfBAXhXqqdFyqo <br>
+Because it was requested that the capitalisation was to be retained the set of alphabet in lowercase and uppercase was created, from then a certain shifting did all the work.
+## 
