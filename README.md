@@ -26,3 +26,7 @@ Because it was requested that the capitalisation was to be retained the set of a
 ## Concert Seats
 link: https://edabit.com/challenge/xbjDMxzpFcsAWKp97 <br>
 List comprehension was used here, checking 2 rows at the same time function returns False if the conditions are not fulfilled anymore, thus reducing the time complexity of the algorithm.
+## Identity Matrix
+link: https://edabit.com/challenge/QN4RMpAnktNvMCWwg <br>
+Once again list comprehension was used to reduce the amount of writing. <br>
+Setting up a function that 'inverts' the counter, with the domain of natural numbers and codomain in integers was the trickiest part, however a student after a course in logic and set theory should have no difficulties in constructing that.
