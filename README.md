@@ -33,4 +33,7 @@ Setting up a function that 'inverts' the counter, with the domain of natural num
 ## Recursion: Happy Number
 link: https://edabit.com/challenge/J9fCHDa3yYJWnK3A7 <br>
 Quite simple recursion problem. Luckily conversion between ints and strings in python feels like it was designed to handle such problems with ease.
+## Party People Part I: Make it Recursive
+link: https://edabit.com/challenge/EuHGfJfCeLyx9BEdG <br>
+Another recursion problem, the solution was to remove the elements that are bigger than the length of the list and call the function again, function ends when there are no elements to be removed returning the length of the list.
 ## 
