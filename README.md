@@ -29,4 +29,8 @@ List comprehension was used here, checking 2 rows at the same time function retu
 ## Identity Matrix
 link: https://edabit.com/challenge/QN4RMpAnktNvMCWwg <br>
 Once again list comprehension was used to reduce the amount of writing. <br>
-Setting up a function that 'inverts' the counter, with the domain of natural numbers and codomain in integers was the trickiest part, however a student after a course in logic and set theory should have no difficulties in constructing that.
+Setting up a function that 'inverts' the counter, with the domain of natural numbers and codomain in integers was the trickiest part, however a student after a course in logic, set theory and mathematical analysis should have no difficulties in constructing that.
+## Recursion: Happy Number
+link: https://edabit.com/challenge/J9fCHDa3yYJWnK3A7 <br>
+Quite simple recursion problem. Luckily conversion between ints and strings in python feels like it was designed to handle such problems with ease.
+## 
