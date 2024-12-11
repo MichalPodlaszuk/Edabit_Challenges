@@ -39,3 +39,7 @@ Another recursion problem, the solution was to remove the elements that are bigg
 ## Staircase
 link: https://edabit.com/challenge/YqLBEZJR9ySndYQpH <br>
 I could've used an if statement but who does that when you can define a natural number sequence that sorts it out for you.
+## Prison Break
+link: https://edabit.com/challenge/SHdu4GwBQehhDm4xT <br>
+We're simply stripping the list of leftmost 1s and then inverting the values of the remainder just like the challenge asked.
+## 
