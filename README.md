@@ -45,3 +45,6 @@ We're simply stripping the list of leftmost 1s and then inverting the values of 
 ## Parentheses Clusters 
 link: https://edabit.com/challenge/Fpymv2HieqEd7ptAq <br>
 One of the solutions is to count opening parentheses and consider closing them, when all counted open parentheses have a matching closing counterpart we append all the parentheses to a list creating a list of grouped parentheses.
+## First Letter Shift
+link: https://edabit.com/challenge/ojNRprg7fKpWJpj47 <br>
+Iterating through the text split into words, getting the index of word in words and accessing previous word using the index, modulo division was used to ensure that the last word is accessed for the first word.
