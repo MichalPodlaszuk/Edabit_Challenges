@@ -42,4 +42,6 @@ I could've used an if statement but who does that when you can define a natural 
 ## Prison Break
 link: https://edabit.com/challenge/SHdu4GwBQehhDm4xT <br>
 We're simply stripping the list of leftmost 1s and then inverting the values of the remainder just like the challenge asked.
-## 
+## Parentheses Clusters 
+link: https://edabit.com/challenge/Fpymv2HieqEd7ptAq <br>
+One of the solutions is to count opening parentheses and consider closing them, when all counted open parentheses have a matching closing counterpart we append all the parentheses to a list creating a list of grouped parentheses.
