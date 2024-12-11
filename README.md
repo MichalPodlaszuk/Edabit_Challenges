@@ -36,4 +36,6 @@ Quite simple recursion problem. Luckily conversion between ints and strings in p
 ## Party People Part I: Make it Recursive
 link: https://edabit.com/challenge/EuHGfJfCeLyx9BEdG <br>
 Another recursion problem, the solution was to remove the elements that are bigger than the length of the list and call the function again, function ends when there are no elements to be removed returning the length of the list.
-## 
+## Staircase
+link: https://edabit.com/challenge/YqLBEZJR9ySndYQpH <br>
+I could've used an if statement but who does that when you can define a natural number sequence that sorts it out for you.
